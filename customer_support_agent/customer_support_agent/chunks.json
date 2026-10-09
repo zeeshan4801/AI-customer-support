@@ -1,0 +1,114 @@
+[
+  {
+    "chunk_id": "chunk-0000",
+    "text": "TechHaven Pakistan is a fictional demonstration retailer of computer hardware and mobile accessories. Customer support is available Monday to Saturday, 9 AM to 6 PM Pakistan Standard Time. This project is a demo and does not represent a real company.",
+    "metadata": {
+      "chunk_id": "chunk-0000",
+      "source_filename": "company_overview.txt",
+      "source_path": "knowledge/company_overview.txt",
+      "page_number": null,
+      "chunk_number": 0,
+      "document_type": "txt",
+      "text_length": 250,
+      "total_number_of_chunks": 7,
+      "embedding_model": "all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    }
+  },
+  {
+    "chunk_id": "chunk-0001",
+    "text": "Orders are usually processed in 1 to 2 business days. Standard delivery is estimated at 3 to 7 business days after dispatch within Pakistan. Delivery estimates are not guarantees. Customers can track their orders using their order ID and registered contact number.",
+    "metadata": {
+      "chunk_id": "chunk-0001",
+      "source_filename": "shipping_policy.txt",
+      "source_path": "knowledge/shipping_policy.txt",
+      "page_number": null,
+      "chunk_number": 0,
+      "document_type": "txt",
+      "text_length": 264,
+      "total_number_of_chunks": 7,
+      "embedding_model": "all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    }
+  },
+  {
+    "chunk_id": "chunk-0002",
+    "text": "Customers may request a return within 7 calendar days of delivery if the item is defective, damaged, or incorrect. Keep original packaging and proof of purchase. Returns require support review and approval; do not promise an automatic refund.",
+    "metadata": {
+      "chunk_id": "chunk-0002",
+      "source_filename": "returns_policy.txt",
+      "source_path": "knowledge/returns_policy.txt",
+      "page_number": null,
+      "chunk_number": 0,
+      "document_type": "txt",
+      "text_length": 242,
+      "total_number_of_chunks": 7,
+      "embedding_model": "all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    }
+  },
+  {
+    "chunk_id": "chunk-0003",
+    "text": "Warranty eligibility depends on the product and manufacturer. The support team verifies warranty coverage using the order details and original invoice. Physical damage and misuse may not be covered.",
+    "metadata": {
+      "chunk_id": "chunk-0003",
+      "source_filename": "warranty_policy.txt",
+      "source_path": "knowledge/warranty_policy.txt",
+      "page_number": null,
+      "chunk_number": 0,
+      "document_type": "txt",
+      "text_length": 198,
+      "total_number_of_chunks": 7,
+      "embedding_model": "all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    }
+  },
+  {
+    "chunk_id": "chunk-0004",
+    "text": "Customers may request cancellation before dispatch. A shipped order cannot be guaranteed to be cancelled; contact human support for further assistance. Pending and Processing orders are not automatically cancelled by a chat request.",
+    "metadata": {
+      "chunk_id": "chunk-0004",
+      "source_filename": "cancellation_policy.txt",
+      "source_path": "knowledge/cancellation_policy.txt",
+      "page_number": null,
+      "chunk_number": 0,
+      "document_type": "txt",
+      "text_length": 232,
+      "total_number_of_chunks": 7,
+      "embedding_model": "all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    }
+  },
+  {
+    "chunk_id": "chunk-0005",
+    "text": "This fictional store accepts cash on delivery and bank transfer for eligible orders. Never request PINs, passwords, OTPs, or complete card details in chat. For payment disputes, escalate to human support.",
+    "metadata": {
+      "chunk_id": "chunk-0005",
+      "source_filename": "payments.txt",
+      "source_path": "knowledge/payments.txt",
+      "page_number": null,
+      "chunk_number": 0,
+      "document_type": "txt",
+      "text_length": 204,
+      "total_number_of_chunks": 7,
+      "embedding_model": "all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    }
+  },
+  {
+    "chunk_id": "chunk-0006",
+    "text": "Human support can help with unresolved order issues, returns, refunds, payment disputes, address corrections, warranty claims, and requests to speak with a representative. The AI assistant creates a pending support ticket and provides its reference number. Ticket submission does not guarantee a resolution time.",
+    "metadata": {
+      "chunk_id": "chunk-0006",
+      "source_filename": "escalation.txt",
+      "source_path": "knowledge/escalation.txt",
+      "page_number": null,
+      "chunk_number": 0,
+      "document_type": "txt",
+      "text_length": 312,
+      "total_number_of_chunks": 7,
+      "embedding_model": "all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    }
+  }
+]

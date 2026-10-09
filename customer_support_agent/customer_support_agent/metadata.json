@@ -1,0 +1,10 @@
+{
+  "company": "TechHaven Pakistan (fictional demo)",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "total_chunks": 7,
+  "index_metric": "inner_product",
+  "normalized_embeddings": true,
+  "chunk_schema": "list of {chunk_id,text,metadata}",
+  "notes": "Sample company knowledge. Replace with your own matching index and chunks."
+}
